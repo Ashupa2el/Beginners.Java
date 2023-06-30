@@ -1,3 +1,5 @@
+package MyLocalUpdates;
+
 public class AshuVariabless {
     public static void main(String[] args) {
 //        variables
